@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Startseite
+title: Einstieg
+nav_order: 1
+has_children: true
 ---
 
-# Projektdokumentation
-
-Willkommen.
-
-- [Installation](installation.md)
+# Einstieg
