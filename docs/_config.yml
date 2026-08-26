@@ -1,6 +1,5 @@
 title: Meine Projektdokumentation
-description: Dokumentation für mein Projekt
+remote_theme: just-the-docs/just-the-docs
 
-theme: jekyll-theme-cayman
-
-markdown: kramdown
+plugins:
+  - jekyll-remote-theme
